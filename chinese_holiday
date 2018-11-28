@@ -1,0 +1,55 @@
+{
+    "year": "2018",
+    "holiday": [
+        {
+            "name": "yuandan",
+            "zh_name": "元旦",
+            "start_time": "2018-01-01",
+            "end_time": "2018-01-01"
+        },
+        {
+            "name": "chunjie",
+            "zh_name": "春节",
+            "start_time": "2018-02-15",
+            "end_time": "2018-02-21"
+        },
+        {
+            "name": "qingming",
+            "zh_name": "清明节",
+            "start_time": "2018-04-05",
+            "end_time": "2018-04-07"
+        },
+        {
+            "name": "laodong",
+            "zh_name": "劳动节",
+            "start_time": "2018-04-29",
+            "end_time": "2018-05-01"
+        },
+        {
+            "name": "duanwu",
+            "zh_name": "端午节",
+            "start_time": "2018-06-16",
+            "end_time": "2018-06-18"
+        },
+        {
+            "name": "zhongqiu",
+            "zh_name": "中秋节",
+            "start_time": "2018-09-22",
+            "end_time": "2018-09-24"
+        },
+        {
+            "name": "guoqing",
+            "zh_name": "国庆节",
+            "start_time": "2018-10-01",
+            "end_time": "2018-10-07"
+        }
+    ],
+    "workday": [
+        "2018-02-11",
+        "2018-02-24",
+        "2018-04-08",
+        "2018-04-28",
+        "2018-09-29",
+        "2018-09-30"
+    ]
+}
